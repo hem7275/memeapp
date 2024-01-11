@@ -3,9 +3,9 @@ import React from "react";
 export default function Meme() {
   // save the meme-related data as an object called `meme
   const [meme, setMeme] = React.useState({
-    topText: "One does not simply",
-    bottomText: "walk into Mordor",
-    randomImage: "http://i.imgflip.com/1bij.jpg",
+    topText: "My university Exams",
+    bottomText: "Codeforces Rounds",
+    randomImage: "https://i.imgflip.com/1ur9b0.jpg",
   });
 
   // Create a state to mantain all memes images
